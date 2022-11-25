@@ -18,7 +18,7 @@ export default function Experience() {
 
   return (
     <>
-      <Perf position="bottom-left" />
+//       <Perf position="bottom-left" />
       {/* <Environment preset="city" /> */}
       <ambientLight intensity={1} />
       <color args={["#121D29"]} attach="background" />
@@ -52,7 +52,7 @@ export default function Experience() {
               distanceFactor={0.825}
               rotation-x={-0.256}
             >
-              <iframe src="http://45.115.217.62" />
+              <iframe src="http://aspirit.surge.sh/" />
             </Html>
           </primitive>
           <Sparkles position={[1, -1, -2]} scale={[10, 7, 10]} speed={0.3} />
