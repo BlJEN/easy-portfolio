@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "http://BlJEN.github.io/easy-portfolio",
   "scripts": {
-    "deploy": "vercel --prod",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "dev": "react-scripts start",
     "build": "react-scripts build"
   },
