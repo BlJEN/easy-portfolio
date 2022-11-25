@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/easy-portfolio/static/css/main.f0c28f37.css",
+    "main.js": "/easy-portfolio/static/js/main.841217c3.js",
+    "index.html": "/easy-portfolio/index.html",
+    "main.f0c28f37.css.map": "/easy-portfolio/static/css/main.f0c28f37.css.map",
+    "main.841217c3.js.map": "/easy-portfolio/static/js/main.841217c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0c28f37.css",
+    "static/js/main.841217c3.js"
+  ]
+}
